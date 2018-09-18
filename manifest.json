@@ -284,6 +284,10 @@
             "value":"http://accstorefront.cyqusdd2-emeadatah1-p2-public.model-t.myhybris.cloud/yb2bacceleratorstorefront"
         },
         {
+            "key": "sapcoreconfiguration.datahuboutbound.enabled",
+            "value": "true"
+        },
+        {
             "key": "datahubadapter.datahuboutbound.url",
             "value": "http://datahub:8080/datahub-webapp/v1"
         },
